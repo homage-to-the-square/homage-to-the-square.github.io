@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2023-2025: **Quantitative Researcher**, IMC Trading
-* Summer of 2022: **Quantitative Trading Intern**, Jane Street
+* 2022 Summer: **Quantitative Trading Intern**, Jane Street
 
 
 Publications
