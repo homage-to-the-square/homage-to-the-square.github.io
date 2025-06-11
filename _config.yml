@@ -22,7 +22,7 @@ repository               : "homage-to-the-square/homage-to-the-square.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jzhou_old_headshot.jpg"
   name             : "Jason Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PhD Student of Statistics."
